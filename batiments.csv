@@ -1,0 +1,409 @@
+﻿N° BCE,Organisation publique,Catégorie,Nom du bâtiment,Adresse,Indice d’émission de CO2 [kg éq CO2/(m².an)],Niveau de performance énergétique [kWhEP/(m².an)],Classe
+0678.485.603,Agence Bruxelloise pour l'accompagnement de l'entreprise SA,1 - Services administratifs,ABAE/BAOB,"Chaussée de Charleroi 110, 1060 Saint-Gilles",35.65,215.73,C+
+0430.973.770,Ancienne Belgique,11 - Théatres et centres culturels,AB Ancienne Belgique,"Boulevard Anspach 110, 1000 Bruxelles",54.33,330.94,E+
+0207.366.501,Commune de Molenbeek-Saint-Jean,4 - Enseignement du jour ET du soir,Academie de Dessin et des Arts visuels,"Rue Mommaerts 2A, 1080 Molenbeek-Saint-Jean",26.18,150.67,C
+0207.365.709,Administration Communale d'Evere,1 - Services administratifs,Académie de musique,"Rue Edouard Stuckens 125, 1140 Evere",29.00,171.88,B-
+0207.389.859,Commune de Woluwe-Saint-Lambert,4 - Enseignement du jour ET du soir,Académie de Woluwe-Saint-LambertADEMIE DE MUSIQUE DE WOLUWE-SAINT-LAMBERT,"Avenue des Deux Tilleuls 2A, 1200 Woluwe-Saint-Lambert",28.98,166.71,C-
+0207.365.709,Administration Communale d'Evere,1 - Services administratifs,Action Sociale,"Rue de Paris 112A, 1140 Evere",63.29,364.98,D
+0240.682.635,Commission communautaire flamande,1 - Services administratifs,Admin. Huis Leo II,"Boulevard Léopold II 178, 1080 Molenbeek-Saint-Jean",48.02,271.36,C-
+0207.366.501,Commune de Molenbeek-Saint-Jean,1 - Services administratifs,Administration Communale de Molenbeek-Saint-Jean,"Rue du Comte de Flandre 20, 1080 Molenbeek-Saint-Jean",25.22,139.45,B
+0212.347.450,CPAS d'Ixelles,1 - Services administratifs,Administration du service social,"Rue Jean Paquot 63B, 1050 Ixelles",45.30,262.42,C
+0316.380.841,Ministère de la Communauté flamande,"13 - Ateliers, centres funéraires, dépôts, ...",Agence des routes et du trafic,"Avenue des Olympiades 10, 1140 Evere",33.44,194.89,C-
+0723.708.783,Agence européenne de défense,1 - Services administratifs,Agence européenne de défense,"Rue des Drapiers 17, 1050 Ixelles",57.68,352.48,D
+0206.734.318,Fedris,1 - Services administratifs,Agence fédérale des risques professionnels,"Avenue de l'Astronomie 1, 1210 Saint-Josse-ten-Noode",58.86,352.98,D
+0207.389.859,Commune de Woluwe-Saint-Lambert,3 - Enseignement du jour OU du soir,Annexe Van Meyel - Verger (ex restaurant) ,"Avenue Georges Henri 251B, 1200 Woluwe-Saint-Lambert",53.87,302.63,F
+0212.346.955,CPAS de Bruxelles,1 - Services administratifs,Antenne sociale Bollen,"Rue Jan Bollen 33B, 1020 Bruxelles",37.25,215.28,C+
+0212.346.955,CPAS de Bruxelles,2 - Crèches,Antenne sociale Marolles,"Rue Notre-Dame de Grâces 1, 1000 Bruxelles",60.69,357.53,D-
+0212.346.955,CPAS de Bruxelles,1 - Services administratifs,Antenne sociale Miroir,"Rue du Miroir 7, 1000 Bruxelles",43.19,248.94,C
+0212.346.955,CPAS de Bruxelles,1 - Services administratifs,Antenne sociale Moorslede,"Rue de Moorslede 56, 1020 Bruxelles",40.56,231.25,C
+0212.346.955,CPAS de Bruxelles,1 - Services administratifs,Antenne sociale Stéphanie,"Rue Stéphanie 27, 1020 Bruxelles",33.84,198.46,C+
+0212.346.955,CPAS de Bruxelles,1 - Services administratifs,Antenne sociale St-Roch,"Chaussée d'Anvers 35, 1000 Bruxelles",54.57,327.31,D+
+0316.380.841,Ministère de la Communauté flamande,1 - Services administratifs,Arenberg,"Rue d'Arenberg 5, 1000 Bruxelles",44.66,278.11,C-
+"0872.234.193,0410.716.014","La Trap',Institut Saint-Stanislas A.S.B.L.",11 - Théatres et centres culturels,Atelier 210 et Institut Saint-Stanislas,"Chaussée Saint-Pierre 210, 1040 Etterbeek",29.73,132.22,B-
+0207.365.610,Administration communale d'Etterbeek,"13 - Ateliers, centres funéraires, dépôts, ...",Atelier HAP/TOBY,"Rue Louis Hap 4, 1040 Etterbeek",84.36,488.91,G
+0850.000.904,Athénée royal Gatti de Gamond,3 - Enseignement du jour OU du soir,Athénée Royal Gatti de Gamond 65,"Rue du Marais 65, 1000 Bruxelles",46.70,263.87,E
+0850.000.904,Athénée royal Gatti de Gamond,3 - Enseignement du jour OU du soir,Athénée Royal Gatti de Gamond 68,"Rue du Marais 68, 1000 Bruxelles",35.62,167.24,C-
+0544.279.965,Autorité des services et marchés financiers,1 - Services administratifs,Autorité des services et marchés financiers,"Rue du Congrès 12, 1000 Bruxelles",40.56,248.87,C
+0212.346.955,CPAS de Bruxelles,"8 - Maisons de repos, maisons de revalidation et de soins et services similaires, établissements pénitentiaires",Aux Ursulines,"Rue des Ursulines 6, 1000 Bruxelles",43.53,255.19,C
+0458.880.274,Haute Ecole Galilée - HEG,5 - Enseignement supérieur,Avenue d'Auderghem 77,"Avenue d'Auderghem 77, 1040 Etterbeek",29.81,176.64,C-
+"0851.014.256,0858.344.981","Comité européen des régions,Comité économique et social européen",1 - Services administratifs,B68,"Rue Belliard 68, 1040 Bruxelles",52.71,325.75,D+
+0203.201.340,Banque Nationale de Belgique,1 - Services administratifs,Banque Nationale de Belgique,"Boulevard de Berlaimont 3, 1000 Bruxelles",36.97,221.27,C+
+0203.201.340,Banque Nationale de Belgique,1 - Services administratifs,Banque Nationale de Belgique ,"Boulevard de Berlaimont 14, 1000 Bruxelles",32.79,202.00,C+
+0212.346.757,Centre Public d'Action Sociale de Berchem-Sainte-Agathe,1 - Services administratifs,Batiment Albert Laurent ,"Avenue de Selliers de Moranville 91, 1082 Berchem-Sainte-Agathe",71.95,413.74,D-
+"0243.405.860,0316.380.841","Institut Belge des postes et télécommunications,Ministère de la Communauté flamande",1 - Services administratifs,Bâtiment Ellips,"Boulevard du Roi Albert II 35, 1030 Schaerbeek",67.77,418.29,D-
+0316.380.841,Ministère de la Communauté flamande,1 - Services administratifs,Bâtiment Ferraris,"Boulevard du Roi Albert II 20, 1000 Bruxelles",36.83,226.62,C+
+0207.372.637,AC Watermael-Boitsfort,1 - Services administratifs,Bâtiment La Source,"Drève du Duc 2, 1170 Watermael-Boitsfort",46.49,263.10,C
+0236.916.956,Bruxelles Environnement,"13 - Ateliers, centres funéraires, dépôts, ...", Bâtiments techniques et administratifs,"Avenue du Parc de Woluwe 68, 1160 Auderghem",41.15,237.16,D
+0207.389.859,Commune de Woluwe-Saint-Lambert,1 - Services administratifs,Bâtiment Tomberg 123,"Tomberg 123, 1200 Woluwe-Saint-Lambert",25.55,149.41,B
+0949.383.342,Commission européenne,1 - Services administratifs,BERL,"Rue de la Loi 200, 1040 Bruxelles",68.94,425.50,E+
+0207.366.501,Commune de Molenbeek-Saint-Jean,"12 - Musées, bibliothèques, médiathèques et services similaires",Bibliotheek - De Boekenmolen ,"Rue du Jardinier 47, 1080 Molenbeek-Saint-Jean",45.51,262.67,D
+0207.365.610,Administration communale d'Etterbeek,"12 - Musées, bibliothèques, médiathèques et services similaires",Bibliothèque Hergé,"Avenue de la Chasse 211, 1040 Etterbeek",51.16,300.83,D-
+0207.372.637,AC Watermael-Boitsfort,1 - Services administratifs,Bibliothèques / Centre administratif,"Rue des Trois Tilleuls 32, 1170 Watermael-Boitsfort",32.19,182.05,B-
+0316.381.039,Service public régional de Bruxelles,1 - Services administratifs,BOTANIC,"Boulevard Saint-Lazare 8, 1210 Saint-Josse-ten-Noode",38.92,236.18,C
+0949.383.342,Commission européenne,1 - Services administratifs,BRE2,"Avenue d'Auderghem 19, 1040 Bruxelles",46.92,289.18,C-
+0949.383.342,Commission européenne,1 - Services administratifs,BREY,"Avenue d'Auderghem 45, 1040 Bruxelles",51.99,318.17,D+
+0316.381.039,Service public régional de Bruxelles,1 - Services administratifs,BRUCEFO,"Boulevard Industriel 200, 1070 Anderlecht",64.52,386.04,D-
+0252.168.920,Institut bruxellois francophone pour la Formation professionnelle (Franstalig Brussels Instituut voo,1 - Services administratifs,Bruxelles Formation,"Rue de Stalle 67, 1180 Uccle",47.39,288.75,C-
+0240.682.635,Commission communautaire flamande,"13 - Ateliers, centres funéraires, dépôts, ...",BTC Loods,"Rue de la Technologie 19, 1082 Berchem-Sainte-Agathe",33.46,196.60,C-
+0949.383.342,Commission européenne,1 - Services administratifs,BU-1-5-9,"Avenue de Beaulieu 1, 1160 Auderghem",60.03,364.07,D
+0949.383.342,Commission européenne,1 - Services administratifs,BU24,"Avenue de Beaulieu 24, 1160 Auderghem",48.87,294.85,C-
+0949.383.342,Commission européenne,1 - Services administratifs,BU25,"Avenue de Beaulieu 25, 1160 Auderghem",47.85,294.43,C-
+0949.383.342,Commission européenne,1 - Services administratifs,BU29,"Avenue de Beaulieu 29, 1160 Auderghem",52.63,324.34,D+
+0949.383.342,Commission européenne,1 - Services administratifs,BU31,"Avenue de Beaulieu 31, 1160 Auderghem",40.44,247.53,C
+0949.383.342,Commission européenne,1 - Services administratifs,BU33,"Avenue de Beaulieu 33, 1160 Auderghem",58.40,361.68,D
+"0851.014.256,0858.344.981","Comité européen des régions,Comité économique et social européen",1 - Services administratifs,BvS,"Rue Montoyer 92, 1000 Bruxelles",32.08,197.28,C+
+0949.383.342,Commission européenne,1 - Services administratifs,C-25,"Avenue de Cortenbergh 25, 1040 Bruxelles",48.80,296.86,C-
+0316.381.039,Service public régional de Bruxelles,1 - Services administratifs,Cabinet de la Secrétaire d'Etat Nawal Ben Hamou,"Boulevard du Régent 21, 1000 Bruxelles",46.42,284.03,C-
+0316.381.039,Service public régional de Bruxelles,1 - Services administratifs,Cabinet du Ministre-Président Rudi Vervoort,"Rue Ducale 7, 1000 Bruxelles",46.02,269.81,C-
+0316.381.039,Service public régional de Bruxelles,1 - Services administratifs,Cabinet du Ministre Sven Gatz/ Etages 8 à 10,"Avenue des Arts 9, 1210 Saint-Josse-ten-Noode",29.03,171.49,B-
+0316.381.039,Service public régional de Bruxelles,1 - Services administratifs,Cabinet du Secrétaire d'Etat Pascal Smet/Zenith Etage 12,"Boulevard du Roi Albert II 37, 1030 Schaerbeek",59.11,363.63,D
+0478.379.452,SINT-GOEDELE BRUSSEL,3 - Enseignement du jour OU du soir,Campus De Haven,"Rue de Molenbeek 173, 1020 Bruxelles",22.90,132.28,C
+0478.379.452,SINT-GOEDELE BRUSSEL,4 - Enseignement du jour ET du soir,Campus SPOOR WEST,"Rue Verheyden 39, 1070 Anderlecht",23.21,134.40,C+
+"0861.748.691,0456.686.490","Centre D'Accueil et de Traitement du Solbosch,L'Ambulatoire - Forest","8 - Maisons de repos, maisons de revalidation et de soins et services similaires, établissements pénitentiaires",C.A.T.S. - Le Solbosch,"Chaussée d'Alsemberg 204, 1190 Forest",47.76,279.51,C
+0430.941.504,C.B.B.D. - B.S.C.,"12 - Musées, bibliothèques, médiathèques et services similaires",CBBD-BCB,"Rue des Sables 20, 1000 Bruxelles",33.81,203.99,C-
+0949.383.342,Commission européenne,1 - Services administratifs,CCAB,"Rue Froissart 36, 1040 Etterbeek",80.40,491.62,E
+"0214.596.464,0316.381.039,0869.909.460","bpost,Service public régional de Bruxelles,Police Fédérale",1 - Services administratifs,CCN - Centre Communication Nord,"Rue du Progrès 80, 1030 Schaerbeek",48.54,298.76,C-
+0949.383.342,Commission européenne,1 - Services administratifs,CDMA,"Rue du Champ de Mars 21, 1050 Ixelles",59.29,360.06,D
+"0353.070.496,0308.358.149,0850.038.021,0208.312.646,0872.876.076,0367.303.762,0306.562.560,0206.492.907,0895.408.978,0367.303.366,0367.302.574,0314.595.348,0308.357.852,0456.019.566,0308.357.159","IRSNB,SPF Affaires étrangères, Commerce extérieur et Coopération au Développement,Institut national de Criminalistique et de Criminologie,Régie Des Bâtiments,KCE,SPF Santé publique, Sécurité de la Chaîne alimentaire et Environnement,Musée Royal de l'Afrique Centrale,Théatre Royal de la Monnaie,Palais des Beaux-Arts de Bruxelles,SPF Sécurité sociale,SPF Budget et Contrôle de la gestion ,SPF Economie, PME, Classes moyennes et Energie,SPF Mobilité et Transports,Centre d'Archives et de Recherches pour l'Histoire des Femmes,SPF Finances",1 - Services administratifs,Centre Administratif Botanique,"Boulevard du Jardin Botanique 50, 1000 Bruxelles",30.29,187.53,B-
+0941.792.893,Hôpital Erasme,1 - Services administratifs,Centre Administratif Hospitalier (CAH),"Avenue Joseph Wybran 40, 1070 Anderlecht",44.24,260.38,C
+0240.682.635,Commission communautaire flamande,11 - Théatres et centres culturels,Centre de jeunesse Alleman,"Avenue de la Sablière 2, 1160 Auderghem",26.74,158.38,C+
+0240.682.635,Commission communautaire flamande,11 - Théatres et centres culturels,Centre de Jeunesse Aximax,"Rue John Waterloo Wilson 19, 1000 Bruxelles",49.19,280.24,D
+0240.682.635,Commission communautaire flamande,11 - Théatres et centres culturels,Centre de Jeunesse 'Centrum West',"Rue de Menin 24, 1080 Molenbeek-Saint-Jean",34.09,192.23,C
+0240.682.635,Commission communautaire flamande,11 - Théatres et centres culturels,Centre de jeunesse Vereniging voor Marokkaanse Jongeren,"Rue de la Vermicellerie 10, 1080 Molenbeek-Saint-Jean",36.22,204.82,C-
+0207.366.501,Commune de Molenbeek-Saint-Jean,6 - Hôpitaux,Centre de Promotion de la Santé à l'école ,"Rue Vandermaelen 26, 1080 Molenbeek-Saint-Jean",43.92,249.43,C+
+0941.792.893,Hôpital Erasme,6 - Hôpitaux,Centre de traumatologie et de réadaptation (CTR),"Place Arthur Van Gehuchten 4, 1020 Bruxelles",58.60,350.22,C-
+0887.937.406,Centre Hospitalier Valida,6 - Hôpitaux,Centre Hospitalier Valida,"Avenue Josse Goffin 180, 1082 Berchem-Sainte-Agathe",80.59,478.19,D
+"0214.596.464,0207.373.429","bpost,Ville de Bruxelles",1 - Services administratifs,Centre Monnaie,"Boulevard Anspach 6, 1000 Bruxelles",57.83,352.22,D
+0416.288.465,Centre Scolaire de Ma Campagne asbl,3 - Enseignement du jour OU du soir,Centre Scolaire de Ma Campagne,"Rue Africaine 36, 1060 Saint-Gilles",14.35,83.09,B
+0436.401.218,Centre Scolaire Don Bosco,3 - Enseignement du jour OU du soir,Centre Scolaire Don Bosco - Val d'Or,"Avenue du Val d'Or 90, 1150 Woluwe-Saint-Pierre",8.13,13.02,A
+0414.213.952,Centre scolaire du Sacré-Coeur de Jette - asbl,3 - Enseignement du jour OU du soir,Centre Scolaire du Sacré-Coeur de Jette,"Avenue du Sacré-Coeur 8, 1090 Jette",18.99,104.04,B-
+0430.786.995,Centre scolaire Maria Assumpta,3 - Enseignement du jour OU du soir,Centre Scolaire Maria Assumpta,"Avenue Wannecouter 115, 1020 Bruxelles",18.94,109.44,C+
+0414.872.166,Centre d'Enseignement Notre-Dame des Champs asbl,3 - Enseignement du jour OU du soir,Centre Scolaire Notre-Dame des Champs,"Rue Edith Cavell 143, 1180 Uccle",18.70,90.81,B-
+0949.383.342,Commission européenne,1 - Services administratifs,CHAR,"Rue de la Loi 170, 1040 Bruxelles",51.94,319.43,D+
+0207.366.501,Commune de Molenbeek-Saint-Jean,11 - Théatres et centres culturels,Château du Karreveld,"Avenue Jean de la Hoese 3, 1080 Molenbeek-Saint-Jean",71.82,413.15,F
+0207.389.859,Commune de Woluwe-Saint-Lambert,11 - Théatres et centres culturels,Château Malou,"Allée Pierre Levie 1, 1200 Woluwe-Saint-Lambert",16.14,95.36,B
+0308.357.852,SPF Mobilité et Transports,1 - Services administratifs,"City Atrium A, B","Rue du Progrès 56, 1210 Saint-Josse-ten-Noode",53.94,331.24,D+
+0314.595.348,"SPF Economie, PME, Classes moyennes et Energie",1 - Services administratifs,City Atrium C,"Rue du Progrès 50, 1210 Saint-Josse-ten-Noode",40.37,246.21,C
+"0316.381.039,0220.916.609","Service public régional de Bruxelles,Communauté française",1 - Services administratifs,City Center Offices,"Boulevard du Jardin Botanique 20, 1000 Bruxelles",41.91,255.98,C
+0215.984.554,Société de Développement pour la Région de Bruxelles-Capitale,1 - Services administratifs,citydev.brussels,"Rue Gabrielle Petit 6, 1080 Molenbeek-Saint-Jean",31.59,186.83,B-
+"0409.890.128,0476.058.479","Clinique Saint-Jean,CEBIODI ASBL",6 - Hôpitaux,Clinique Saint-Jean (Botanique),"Boulevard du Jardin Botanique 32, 1000 Bruxelles",95.46,577.04,E
+"0476.058.479,0409.890.128,0416.862.349","CEBIODI ASBL,Clinique Saint-Jean,Clinique Sanatia - Centre médico-social Sanatia",6 - Hôpitaux,Clinique Saint-Jean (Méridien),"Rue du Méridien 100, 1210 Saint-Josse-ten-Noode",63.29,368.41,C-
+0416.885.016,Cliniques universitaires Saint-Luc,6 - Hôpitaux,Cliniques universitaires Saint-Luc asbl,"Avenue Hippocrate 10, 1200 Woluwe-Saint-Lambert",123.49,750.47,F
+0949.383.342,Commission européenne,2 - Crèches,CLOV/WILS,"Boulevard Clovis 75, 1000 Bruxelles",37.32,226.07,C
+0443.638.012,Maison diocésaine de l'enseignement : CoDiEC Bxl-BW,1 - Services administratifs,Codiec BxL-BW,"Avenue de l'Eglise Saint-Julien 15, 1160 Auderghem",21.72,123.81,B
+0949.383.342,Commission européenne,2 - Crèches,COLE,"Rue Général Leman 60, 1040 Etterbeek",52.46,310.84,D+
+0422.143.307,La Fraternité ,3 - Enseignement du jour OU du soir,Collège de la fraternité,"Rue Drootbeek 2, 1020 Bruxelles",24.53,140.26,C
+0412.732.228,Centre d'Enseignement Catholique Robert et Laure Brunner A.S.B.L.,3 - Enseignement du jour OU du soir,Collège Roi Baudoin ETP (Site Diamant),"Avenue de l'Emeraude 7, 1030 Schaerbeek",18.71,106.86,C+
+0412.732.228,Centre d'Enseignement Catholique Robert et Laure Brunner A.S.B.L.,3 - Enseignement du jour OU du soir,Collège Roi Baudoin ETP (Site Milcamps),"Avenue Milcamps 181, 1030 Schaerbeek",22.60,126.39,C
+0428.402.181,Collège Saint Vincent - Saint François,3 - Enseignement du jour OU du soir,Collège Saint-François,"Rue des Mérisiers 7, 1050 Ixelles",24.60,113.45,C+
+0414.397.361,Comité scolaire Providence - asbl,3 - Enseignement du jour OU du soir,Comité Scolaire Providence (Déportés),"Rue des Déportés 38, 1200 Woluwe-Saint-Lambert",34.64,152.13,C-
+0414.397.361,Comité scolaire Providence - asbl,3 - Enseignement du jour OU du soir,Comité Scolaire Providence (Stockel),"Chaussée de Stockel 28, 1200 Woluwe-Saint-Lambert",30.97,182.90,D+
+0408.142.643,Comité Scolaire Saint-Denis à Forest,3 - Enseignement du jour OU du soir,Comité Scolaire Saint-Denis,"Chaussée de Bruxelles 217, 1190 Forest",18.93,107.51,C+
+0212.347.450,CPAS d'Ixelles,"8 - Maisons de repos, maisons de revalidation et de soins et services similaires, établissements pénitentiaires",Complexe de bâtiments : Administration et Hébergement,"Chaussée de Boondael 94, 1050 Ixelles",43.04,249.80,C
+0316.380.841,Ministère de la Communauté flamande,1 - Services administratifs,Complexe Place des Martyrs Nord,"Rue aux Choux 35, 1000 Bruxelles",36.83,220.75,C+
+0316.380.841,Ministère de la Communauté flamande,1 - Services administratifs,Complexe Place des Martyrs Sud,"Place des Martyrs 7, 1000 Bruxelles",34.73,209.62,C+
+0207.541.594,ADMINISTRATION COMMUNALE DE BERCHEM-SAINTE-AGATHE,10 - Centres sportifs,Complexe sportif,"Rue des Châlets 1, 1082 Berchem-Sainte-Agathe",54.23,272.43,C
+0207.365.709,Administration Communale d'Evere,10 - Centres sportifs,Complexe sportif Salle François Guillaume,"Avenue des Anciens Combattants 300, 1140 Evere",48.68,283.26,C
+0316.380.841,Ministère de la Communauté flamande,1 - Services administratifs,Conscience,"Boulevard du Roi Albert II 15, 1210 Saint-Josse-ten-Noode",35.64,218.14,C+
+0253.777.437,Conseil economique et Social de la Région de Bruxelles-Capitale,1 - Services administratifs,Conseil Economique et Social de la Région Bruxelles-Capital,"Boulevard Bischoffsheim 26, 1000 Bruxelles",32.46,190.04,B-
+0949.383.342,Commission européenne,1 - Services administratifs,COVE/COV2,"Place Charles Rogier 16, 1210 Saint-Josse-ten-Noode",54.89,334.35,D+
+0212.346.955,CPAS de Bruxelles,1 - Services administratifs,CPAS de Bruxelles - Département des Travaux,"Rue Joseph Stevens 7, 1000 Bruxelles",39.70,239.18,C
+0941.792.893,Hôpital Erasme,2 - Crèches,Crèche 1 (Hôpital Erasme),"Route de Lennik 808, 1070 Anderlecht",43.09,241.73,C
+0941.792.893,Hôpital Erasme,2 - Crèches,Crèche 2 (Hôpital Erasme),"Route de Lennik 806, 1070 Anderlecht",48.12,274.01,C-
+0207.365.709,Administration Communale d'Evere,2 - Crèches,Crèche Atis-Watis,"Chemin du Jutland 2, 1140 Evere",34.51,218.42,C
+0207.372.637,AC Watermael-Boitsfort,2 - Crèches,Crèche Gilson,"Chaussée de La Hulpe 342, 1170 Watermael-Boitsfort",62.30,350.16,D
+0207.389.859,Commune de Woluwe-Saint-Lambert,2 - Crèches,Crèche Prince Baudouin,"Avenue du Couronnement 59, 1200 Woluwe-Saint-Lambert",30.27,174.32,B-
+0207.389.859,Commune de Woluwe-Saint-Lambert,2 - Crèches,Crèche Princesse Paola,"Chaussée de Roodebeek 280, 1200 Woluwe-Saint-Lambert",29.23,169.77,B-
+0207.366.501,Commune de Molenbeek-Saint-Jean,2 - Crèches,Crèche Reine Fabiola ,"Avenue Jean Dubrucq 90, 1080 Molenbeek-Saint-Jean",68.71,392.09,E+
+0207.365.709,Administration Communale d'Evere,2 - Crèches,Crèche Ronde-Fleurie,"Avenue des Anciens Combattants 250, 1140 Evere",37.72,215.72,C
+0207.389.859,Commune de Woluwe-Saint-Lambert,2 - Crèches,Crèche Saint-Lambert,"Mont Saint-Lambert 2, 1200 Woluwe-Saint-Lambert",46.94,271.21,C-
+0207.389.859,Commune de Woluwe-Saint-Lambert,2 - Crèches,Crèche Sarah Goldberg,"Avenue de Toutes les Couleurs 17, 1200 Woluwe-Saint-Lambert",35.06,209.08,C+
+0548.895.779,Centre interfédéral pour l'égalité des chances et la lutte contre le racisme et les discriminations,1 - Services administratifs,Crown Center,"Rue Royale 138, 1000 Bruxelles",28.11,152.14,B
+0414.872.166,Centre d'Enseignement Notre-Dame des Champs asbl,10 - Centres sportifs,C.S. Notre-Dame des Champs : Hall des sports ,"Rue Zeecrabbe 24, 1180 Uccle",23.42,104.23,B+
+0409.384.540,Centre Scolaire Saint-Adrien - Val Duchesse  asbl,3 - Enseignement du jour OU du soir,C.S. St-Adrien - Schoolgat,"Rue Schoolgat 5, 1050 Ixelles",15.52,87.63,B-
+0409.384.540,Centre Scolaire Saint-Adrien - Val Duchesse  asbl,3 - Enseignement du jour OU du soir,C.S. St-Adrien Val-Duchesse,"Boulevard du Souverain 201, 1160 Auderghem",13.75,78.69,B
+0416.885.016,Cliniques universitaires Saint-Luc,2 - Crèches,"CUSL - Crèche ""Les Coccinelles""","Square Joseph Hanse 1, 1200 Woluwe-Saint-Lambert",18.90,119.61,B
+0416.885.016,Cliniques universitaires Saint-Luc,5 - Enseignement supérieur,CUSL - ESP,"Clos Chapelle-aux-Champs 30, 1200 Woluwe-Saint-Lambert",33.21,197.32,D+
+0416.885.016,Cliniques universitaires Saint-Luc,7 - Centres de santé et services similaires,CUSL - La Résidence,"Place Jean-Baptiste Carnoy 16, 1200 Woluwe-Saint-Lambert",33.02,195.12,C+
+0416.885.016,Cliniques universitaires Saint-Luc,"8 - Maisons de repos, maisons de revalidation et de soins et services similaires, établissements pénitentiaires",CUSL - Le Roseau,"Place Jean-Baptiste Carnoy 12, 1200 Woluwe-Saint-Lambert",48.63,278.13,C
+0949.383.342,Commission européenne,"13 - Ateliers, centres funéraires, dépôts, ...",DAV1,"Avenue du Bourget 1, 1140 Evere",51.60,315.23,E
+"0308.356.862,0314.595.348,0865.537.829","SPF Intérieur,SPF Economie, PME, Classes moyennes et Energie,SPP Politique scientifique","13 - Ateliers, centres funéraires, dépôts, ...",Depot Demets,"Quai Fernand Demets 7, 1070 Anderlecht",0.23,1.48,A
+0949.383.342,Commission européenne,1 - Services administratifs,DM24,"Rue Demot 24, 1040 Etterbeek",47.23,288.95,C-
+0949.383.342,Commission européenne,1 - Services administratifs,DM28,"Rue Demot 28, 1040 Etterbeek",49.60,298.98,C-
+0207.366.501,Commune de Molenbeek-Saint-Jean,3 - Enseignement du jour OU du soir,"Ecole 14 ""La flûte enchantée"" ","Rue de la Flûte Enchantée 30, 1080 Molenbeek-Saint-Jean",35.28,200.61,D
+0207.366.501,Commune de Molenbeek-Saint-Jean,3 - Enseignement du jour OU du soir,Ecole 15 - Ecole 16 - Crèche les Petits Poucets ,"Avenue Carl Requette 20, 1080 Molenbeek-Saint-Jean",42.73,242.93,E+
+0207.366.501,Commune de Molenbeek-Saint-Jean,3 - Enseignement du jour OU du soir,"Ecole 7 ""Arc-en-ciel"" ","Rue de Ribaucourt 21, 1080 Molenbeek-Saint-Jean",37.18,211.30,D-
+0207.365.610,Administration communale d'Etterbeek,3 - Enseignement du jour OU du soir,Ecole Claire Joie,"Rue Beckers 129, 1040 Etterbeek",26.61,151.69,C-
+0207.365.709,Administration Communale d'Evere,3 - Enseignement du jour OU du soir,Ecole Clair-Vivre ALPHA,"Avenue Notre-Dame 40, 1140 Evere",49.69,282.71,E-
+0207.365.709,Administration Communale d'Evere,3 - Enseignement du jour OU du soir,Ecole Clair-Vivre OMEGA,"Rue de la Résistance 29, 1140 Evere",21.80,127.66,C
+0207.372.637,AC Watermael-Boitsfort,3 - Enseignement du jour OU du soir,"ECOLE COMMUNALE ""LA ROSERAIE""","Rue du Loutrier 47, 1170 Watermael-Boitsfort",34.46,195.22,D
+0207.389.859,Commune de Woluwe-Saint-Lambert,4 - Enseignement du jour ET du soir,Ecole communale P Malou et R Maistriau ,"Rue Joseph Aernaut 9, 1200 Woluwe-Saint-Lambert",19.61,115.48,C+
+0207.389.859,Commune de Woluwe-Saint-Lambert,4 - Enseignement du jour ET du soir,Ecole communale Princesse Paola,"Chaussée de Roodebeek 268, 1200 Woluwe-Saint-Lambert",21.80,123.45,C+
+0207.389.859,Commune de Woluwe-Saint-Lambert,4 - Enseignement du jour ET du soir,"Ecole communale ""Prinses Paola""","Place de la Sainte-Famille 1, 1200 Woluwe-Saint-Lambert",27.90,161.87,C-
+0207.389.859,Commune de Woluwe-Saint-Lambert,4 - Enseignement du jour ET du soir,Ecole communale Van Meyel,"Avenue Georges Henri 224, 1200 Woluwe-Saint-Lambert",20.73,119.81,C+
+0207.389.859,Commune de Woluwe-Saint-Lambert,4 - Enseignement du jour ET du soir,Ecole communale Vervloesem ,"Rue Vervloesem 36, 1200 Woluwe-Saint-Lambert",18.69,107.30,B-
+0207.389.859,Commune de Woluwe-Saint-Lambert,3 - Enseignement du jour OU du soir,Ecole communale Vervloesem (Annexe Hymans),"Avenue Paul Hymans 116, 1200 Woluwe-Saint-Lambert",27.73,159.18,C-
+0422.682.943,Pouvoir Organisateur de la Sainte-Famille à Watermael,3 - Enseignement du jour OU du soir,Ecole de la Sainte Famille,"Avenue Léopold Wiener 34, 1170 Watermael-Boitsfort",28.22,160.54,C-
+0414.213.952,Centre scolaire du Sacré-Coeur de Jette - asbl,3 - Enseignement du jour OU du soir,Ecole du Sacré-Coeur de Jette - Fondamental ,"Avenue du Sacré-Coeur 4, 1090 Jette",15.28,87.28,B-
+0207.365.709,Administration Communale d'Evere,3 - Enseignement du jour OU du soir,Ecole Everheide,"Rue du Moulin à Vent 39, 1140 Evere",19.41,108.63,C+
+0207.365.610,Administration communale d'Etterbeek,3 - Enseignement du jour OU du soir,Ecole Farandole,"Chaussée Saint-Pierre 193, 1040 Etterbeek",23.11,131.50,C
+0408.140.168,Ecole Fondamentale Libre Saint-Augustin,3 - Enseignement du jour OU du soir,Ecole Fondamentale Libre Saint-Augustin,"Avenue Saint-Augustin 16, 1190 Forest",16.45,90.59,B-
+0408.183.027,Comité scolaire Sainte-Alène,3 - Enseignement du jour OU du soir,Ecole fondamentale libre Sainte-Alène,"Avenue Kersbeek 7, 1190 Forest",29.03,128.59,C
+0409.855.880,Institut des Ursulines (Sippelberg),3 - Enseignement du jour OU du soir,ECOLE FONDAMENTALE LIBRE SUBVENTIONNEE INSTITUT DES URSULINES,"Rue Herkoliers 69, 1081 Koekelberg",25.47,115.62,C+
+0430.786.995,Centre scolaire Maria Assumpta,3 - Enseignement du jour OU du soir,Ecole Fondamentale Maria Assumpta,"Rue de Beyseghem 174, 1120 Bruxelles",16.48,96.75,B-
+0207.366.501,Commune de Molenbeek-Saint-Jean,3 - Enseignement du jour OU du soir,"Ecole fondamentale n°2 : ""EMERAUDE"" ","Rue Le Lorrain 94, 1080 Molenbeek-Saint-Jean",62.54,351.30,F
+0207.365.709,Administration Communale d'Evere,3 - Enseignement du jour OU du soir,Ecole Germinal,"Rue Maurice Utrillo 36, 1140 Evere",24.28,140.03,C
+0430.290.614,ETABLISSEMENT JOIE DE VIVRE,3 - Enseignement du jour OU du soir,Ecole Joie de Vivre ,"Avenue Jean-Joseph Crocq 10, 1090 Jette",34.23,199.99,D
+0419.753.840,La Cime asbl,3 - Enseignement du jour OU du soir,Ecole La Cime - asbl,"Rue de Mérode 398, 1190 Forest",21.57,125.21,C+
+0207.365.709,Administration Communale d'Evere,3 - Enseignement du jour OU du soir,Ecole La Source,"Rue du Doolegt 6, 1140 Evere",11.65,65.48,B
+0207.372.637,AC Watermael-Boitsfort,3 - Enseignement du jour OU du soir,Ecole maternelle Les aigrettes,"Rue des Aigrettes 6, 1170 Watermael-Boitsfort",46.40,260.56,E
+0421.029.686,Ecole maternelle et primaire Notre-Dame de la Consolation,3 - Enseignement du jour OU du soir,Ecole Notre-Dame de la Consolation ,"Rue du Bourdon 27, 1180 Uccle",20.73,119.73,C+
+0422.143.307,La Fraternité ,3 - Enseignement du jour OU du soir,Ecole Notre Dame de Laeken,"Rue de Molenbeek 122, 1020 Bruxelles",28.54,159.42,C-
+0207.389.859,Commune de Woluwe-Saint-Lambert,3 - Enseignement du jour OU du soir,Ecole P Paola - annexe pavillon parc,"Chaussée de Roodebeek 268, 1200 Woluwe-Saint-Lambert",58.61,332.52,F
+0207.389.859,Commune de Woluwe-Saint-Lambert,4 - Enseignement du jour ET du soir,"Ecole primaires d'enseignement spécialisé  ""Klim Op""","Place de la Sainte-Famille 1, 1200 Woluwe-Saint-Lambert",10.25,64.90,B+
+0414.452.690,ECOLE CHANTERELLE,3 - Enseignement du jour OU du soir,ECOLE PRIMAIRE SPECIALISEE LIBRE,"Rue Blaes 120, 1000 Bruxelles",21.79,103.19,B-
+0207.389.859,Commune de Woluwe-Saint-Lambert,4 - Enseignement du jour ET du soir,Ecole Prince Baudouin,"Avenue du Couronnement 42, 1200 Woluwe-Saint-Lambert",20.97,120.85,C+
+0414.397.361,Comité scolaire Providence - asbl,3 - Enseignement du jour OU du soir,Ecole Sainte-Jeanne de Chantal ,"Avenue Marcel Thiry 31, 1200 Woluwe-Saint-Lambert",24.37,124.70,C+
+0422.143.307,La Fraternité ,3 - Enseignement du jour OU du soir,Ecole Sainte Ursule fondamentale,"Rue de Molenbeek 175, 1020 Bruxelles",15.19,86.22,B-
+0410.706.809,SPES,3 - Enseignement du jour OU du soir,Ecole Saint-Jean et Nicolas,"Rue d'Anethan 33, 1030 Schaerbeek",21.97,126.15,C
+0207.389.859,Commune de Woluwe-Saint-Lambert,3 - Enseignement du jour OU du soir,Ecole Van Meyel Annexe les Constellations,"Avenue du Centaure 16A, 1200 Woluwe-Saint-Lambert",49.37,280.59,E-
+0207.372.637,AC Watermael-Boitsfort,11 - Théatres et centres culturels,Ecuries,"Hondenberg 4, 1170 Watermael-Boitsfort",37.37,212.46,C-
+0810.888.623,Wallonie-Bruxelles International,1 - Services administratifs,EIWB1 Espace International Wallonie,"Place Sainctelette 2, 1080 Molenbeek-Saint-Jean",39.45,239.80,C
+0810.888.623,Wallonie-Bruxelles International,1 - Services administratifs,EIWB2 Wallonie-Bruxelles International,"Boulevard Baudouin 12, 1000 Bruxelles",58.90,350.86,D
+"0220.916.609,0850.000.211","Communauté française,ENSAV - La Cambre",1 - Services administratifs,ENSAV - La Cambre,"Avenue Franklin Roosevelt 27, 1050 Bruxelles",31.82,154.05,B-
+0850.000.211,ENSAV - La Cambre,3 - Enseignement du jour OU du soir,ENSAV - La Cambre,"Avenue Louise 425A, 1050 Bruxelles",26.75,159.02,C-
+"0850.000.211,0220.916.609","ENSAV - La Cambre,Communauté française",5 - Enseignement supérieur,ENSAV - La Cambre,"Avenue Louise 427, 1050 Bruxelles",27.79,164.77,C
+"0220.916.609,0850.000.211","Communauté française,ENSAV - La Cambre",5 - Enseignement supérieur,ENSAV - La Cambre,"Abbaye de la Cambre 21, 1000 Bruxelles",36.55,210.49,D+
+0850.000.211,ENSAV - La Cambre,5 - Enseignement supérieur,ENSAV - La Cambre,"Abbaye de la Cambre 14, 1000 Bruxelles",32.35,187.26,C-
+0435.187.629,EPFC,4 - Enseignement du jour ET du soir,EPFC,"Avenue de l'Astronomie 19, 1210 Saint-Josse-ten-Noode",43.03,259.69,E+
+0941.792.893,Hôpital Erasme,7 - Centres de santé et services similaires,Erasme Medical Center (EMC),"Route de Lennik 900, 1070 Anderlecht",77.39,464.76,E-
+0412.680.857,Ecole Sainte-Bernadette,3 - Enseignement du jour OU du soir,Etablissements Ste-Bernadette,"Square du Sacré-Coeur 2, 1160 Auderghem",18.32,104.98,B-
+"0367.303.762,0308.356.862","SPF Santé publique, Sécurité de la Chaîne alimentaire et Environnement,SPF Intérieur",1 - Services administratifs,Eurostation Instruction,"Place Victor Horta 40, 1060 Saint-Gilles",28.95,177.74,B-
+0949.383.342,Commission européenne,1 - Services administratifs,F101,"Rue Froissart 101, 1040 Bruxelles",48.38,293.76,C-
+"0220.916.609,0308.356.862","Communauté française,SPF Intérieur",1 - Services administratifs,FOD en kabinet Binnenlandse zaken,"Rue de Louvain 1, 1000 Bruxelles",35.16,213.08,C+
+0308.357.159,SPF Finances,1 - Services administratifs,FOD Financiën Thesaurie,"Avenue des Arts 28, 1040 Bruxelles",36.10,217.62,C+
+0212.347.252,CPAS d'ETTERBEEK,"8 - Maisons de repos, maisons de revalidation et de soins et services similaires, établissements pénitentiaires",Fondation JOURDAN BEAUPORT,"Chaussée de Wavre 541, 1040 Etterbeek",64.23,382.57,D
+0427.273.221,Fonds du Logement de la Région de Bruxelles-Capitale,1 - Services administratifs,Fonds du Logement de la Région Bruxelles-Capitale.,"Rue de l'Eté 73, 1050 Ixelles",34.87,204.17,C+
+0949.383.342,Commission européenne,1 - Services administratifs,G--1,"Rue de Genève 1, 1140 Evere",44.93,277.97,C-
+0949.383.342,Commission européenne,1 - Services administratifs,G-12,"Rue de Genève 12, 1140 Evere",45.73,276.46,C-
+0949.383.342,Commission européenne,1 - Services administratifs,G--6,"Rue de Genève 6, 1140 Evere",42.97,261.85,C
+0207.372.637,AC Watermael-Boitsfort,11 - Théatres et centres culturels,Gare de Watermael,"Avenue des Taillis 4, 1170 Watermael-Boitsfort",49.38,275.13,D
+0240.682.635,Commission communautaire flamande,11 - Théatres et centres culturels,GC De Kriekelaar,"Rue Gallait 86, 1030 Schaerbeek",32.42,189.70,C
+0240.682.635,Commission communautaire flamande,11 - Théatres et centres culturels,GC De Kroon,"Rue Jean-Baptiste Vandendriesch 19, 1082 Berchem-Sainte-Agathe",50.39,293.18,D-
+0240.682.635,Commission communautaire flamande,11 - Théatres et centres culturels,GC De Linde,"Rue de Cortenbach 7, 1130 Bruxelles",32.93,190.46,C
+0240.682.635,Commission communautaire flamande,10 - Centres sportifs,GC De Maalbeek,"Rue du Cornet 97, 1040 Etterbeek",35.66,205.54,B-
+0240.682.635,Commission communautaire flamande,11 - Théatres et centres culturels,GC De Markten,"Rue du Vieux Marché aux Grains 5, 1000 Bruxelles",34.26,205.19,C-
+0240.682.635,Commission communautaire flamande,11 - Théatres et centres culturels,GC Den Dam,"Chaussée de Wavre 1741, 1160 Auderghem",27.66,163.63,C+
+0240.682.635,Commission communautaire flamande,11 - Théatres et centres culturels,GC De Platoo,"Avenue du Panthéon 14, 1081 Koekelberg",61.62,355.06,E
+0240.682.635,Commission communautaire flamande,11 - Théatres et centres culturels,GC De Zeyp,"Avenue Van Overbeke 164, 1083 Ganshoren",45.53,272.66,D
+0240.682.635,Commission communautaire flamande,11 - Théatres et centres culturels,GC Elzenhof,"Avenue de la Couronne 12, 1050 Ixelles",28.30,162.56,C+
+0240.682.635,Commission communautaire flamande,11 - Théatres et centres culturels,GC Essegem,"Rue Léopold I 329, 1090 Jette",47.90,283.12,D-
+0240.682.635,Commission communautaire flamande,11 - Théatres et centres culturels,GC Everna,"Rue Saint-Vincent 30, 1140 Evere",38.08,220.47,C-
+0240.682.635,Commission communautaire flamande,11 - Théatres et centres culturels,GC Kontakt,"Avenue Orban 54, 1150 Woluwe-Saint-Pierre",26.04,150.44,C+
+0240.682.635,Commission communautaire flamande,11 - Théatres et centres culturels,GC Op-Weule,"Rue Saint-Lambert 91, 1200 Woluwe-Saint-Lambert",40.08,234.65,D+
+0240.682.635,Commission communautaire flamande,11 - Théatres et centres culturels,GC Pianofabriek,"Rue du Fort 35, 1060 Saint-Gilles",34.69,205.31,C-
+0240.682.635,Commission communautaire flamande,11 - Théatres et centres culturels,GC Ten Noey,"Rue de la Commune 25, 1210 Saint-Josse-ten-Noode",29.25,171.16,C
+0240.682.635,Commission communautaire flamande,11 - Théatres et centres culturels,GC Ten Weyngaert,"Rue des Alliés 54, 1190 Forest",35.74,210.31,C-
+0240.682.635,Commission communautaire flamande,11 - Théatres et centres culturels,GC Wabo,"Avenue Delleur 39, 1170 Watermael-Boitsfort",41.13,234.77,D+
+0240.682.635,Commission communautaire flamande,11 - Théatres et centres culturels,"Gemeenschapscentrum Nekkersdal vzw, Luisterpuntbibliotheek","Boulevard Emile Bockstael 107, 1020 Bruxelles",47.76,273.42,D
+0207.366.501,Commune de Molenbeek-Saint-Jean,3 - Enseignement du jour OU du soir,"Gemeentelijke Basisschool 2 : ""Regenboog"" ","Rue Ulens 83, 1080 Molenbeek-Saint-Jean",34.44,196.96,D
+0207.366.501,Commune de Molenbeek-Saint-Jean,3 - Enseignement du jour OU du soir,"Gemeentelijke Basisschool 2: ""Regenboog"" ","Rue de Ribaucourt 180, 1080 Molenbeek-Saint-Jean",28.58,163.61,C-
+0308.357.753,Service public fédéral Justice,1 - Services administratifs,GEVANGENIS(VROUW GEVANG.ARBEID),"Rue Berkendael 44, 1190 Forest",59.13,345.43,D
+0409.535.780,Groupement d'Entraide Sociale La Famille,7 - Centres de santé et services similaires,Groupement d'Entraide sociale La Famille,"Rue Jean Jacquet 25, 1081 Koekelberg",39.12,224.74,C
+0236.916.956,Bruxelles Environnement,"13 - Ateliers, centres funéraires, dépôts, ...","Hangar, Atelier mécanique","Avenue du Parc de Woluwe 68, 1160 Auderghem",41.15,237.16,D
+0458.880.274,Haute Ecole Galilée - HEG,5 - Enseignement supérieur,HEG - Cornet ECSEDI ISALT,"Rue du Cornet 53, 1040 Etterbeek",26.72,149.99,C
+0458.880.274,Haute Ecole Galilée - HEG,5 - Enseignement supérieur,HEG-Locaux bis- ISSIG - ISPG,"Rue Royale 326, 1030 Schaerbeek",33.27,146.45,C+
+0458.880.274,Haute Ecole Galilée - HEG,1 - Services administratifs,HEG-Services Généraux - ISSIG - ISPG,"Rue Royale 328, 1030 Schaerbeek",31.64,145.78,B
+0316.380.841,Ministère de la Communauté flamande,1 - Services administratifs,Herman Teirlinckgebouw,"Avenue du Port 88, 1000 Bruxelles",19.04,119.63,B
+0212.346.955,CPAS de Bruxelles,1 - Services administratifs,Home Juliette Herman - Centre Médori,"Rue Médori 70, 1020 Bruxelles",48.50,283.51,C-
+"0267.300.029,0212.347.252","Hôpitaux Iris Sud,CPAS d'ETTERBEEK",6 - Hôpitaux,Hôpitaux Iris Sud site Baron Lambert,"Rue Baron Lambert 38, 1040 Etterbeek",60.10,355.47,C-
+0267.300.029,Hôpitaux Iris Sud,6 - Hôpitaux,Hôpitaux Iris Sud site Bracops,"Rue Docteur Huet 79, 1070 Anderlecht",74.40,443.31,D
+0267.300.029,Hôpitaux Iris Sud,6 - Hôpitaux,Hôpitaux Iris Sud site Ixelles,"Rue Jean Paquot 61, 1050 Ixelles",97.57,587.14,E
+0267.300.029,Hôpitaux Iris Sud,6 - Hôpitaux,Hôpitaux Iris Sud site Molière,"Rue Marconi 142, 1190 Forest",65.95,396.74,D+
+0207.389.859,Commune de Woluwe-Saint-Lambert,1 - Services administratifs,Hôtel Communal,"Avenue Paul Hymans 2, 1200 Woluwe-Saint-Lambert",27.37,162.96,B-
+0316.380.841,Ministère de la Communauté flamande,1 - Services administratifs,Hotel Errera,"Rue Royale 14, 1000 Bruxelles",72.86,418.38,D-
+0240.682.635,Commission communautaire flamande,1 - Services administratifs,Huis van het Onderwijs,"Rue Marcq 18, 1000 Bruxelles",37.99,221.74,C+
+0207.365.610,Administration communale d'Etterbeek,4 - Enseignement du jour ET du soir,IFSCE Institut Ernest Richard II,"Rue Joseph Buedts 14, 1040 Etterbeek",22.20,128.56,C+
+0941.792.893,Hôpital Erasme,7 - Centres de santé et services similaires,Imedia (hôpital Erasme),"Route de Lennik 501, 1070 Anderlecht",111.41,705.11,G
+0754.739.974,INEA,1 - Services administratifs,INEA,"Boulevard Louis Schmidt 2, 1040 Etterbeek",83.62,506.31,E-
+0408.180.552,Institut de l'Annonciation,3 - Enseignement du jour OU du soir,Institut de l'Annonciation,"Rue Josse Impens 125, 1030 Schaerbeek",20.04,96.10,B-
+0475.190.528,INSTITUT DE LA VIERGE FIDELE,3 - Enseignement du jour OU du soir,Institut de la Vierge Fidèle,"Rue de Linthout 30, 1030 Schaerbeek",22.95,131.76,C
+0475.190.528,INSTITUT DE LA VIERGE FIDELE,3 - Enseignement du jour OU du soir,Institut de la Vierge Fidèle - section maternelles,"Place de Jamblinne de Meux 15, 1030 Schaerbeek",18.70,108.94,C+
+0409.855.880,Institut des Ursulines (Sippelberg),3 - Enseignement du jour OU du soir,Institut des Ursulines (Debecker),"Rue Jules Debecker 71, 1081 Koekelberg",23.53,134.20,C
+0409.855.880,Institut des Ursulines (Sippelberg),3 - Enseignement du jour OU du soir,Institut des Ursulines (Léopold),"Boulevard Léopold II 266, 1081 Koekelberg",27.16,122.91,C+
+0409.855.880,Institut des Ursulines (Sippelberg),3 - Enseignement du jour OU du soir,Institut des Ursulines (Sippelberg),"Avenue du Sippelberg 10, 1080 Molenbeek-Saint-Jean",16.22,95.16,B-
+0436.401.218,Centre Scolaire Don Bosco,3 - Enseignement du jour OU du soir,INSTITUT DON BOSCO,"Rue de la Cambre 55, 1150 Woluwe-Saint-Pierre",0.18,-5.84,A+
+0207.366.501,Commune de Molenbeek-Saint-Jean,4 - Enseignement du jour ET du soir,Institut Edmond Machtens - Bibliothèque 1,"Rue Tazieaux 25, 1080 Molenbeek-Saint-Jean",40.19,232.15,D-
+0410.216.562,Institut Marie Immaculée Montjoie,3 - Enseignement du jour OU du soir,Institut Marie Immaculée Montjoie,"Rue Stanley 69, 1180 Uccle",23.73,135.08,C
+0410.216.562,Institut Marie Immaculée Montjoie,3 - Enseignement du jour OU du soir,Institut Marie Immaculée Montjoie,"Rue des Résédas 51, 1070 Anderlecht",23.24,133.04,C
+0410.216.562,Institut Marie Immaculée Montjoie,3 - Enseignement du jour OU du soir,Institut Marie Immaculée Montjoie,"Petite rue des Loups 34, 1070 Anderlecht",19.30,111.21,C+
+0410.216.562,Institut Marie Immaculée Montjoie,3 - Enseignement du jour OU du soir,Institut Marie Immaculée Montjoie,"Avenue Winston Churchill 213, 1180 Uccle",21.32,119.72,C+
+0410.216.562,Institut Marie Immaculée Montjoie,3 - Enseignement du jour OU du soir,Institut Marie Immaculée Montjoie,"Avenue Montjoie 30, 1180 Uccle",26.86,151.97,C-
+0410.216.562,Institut Marie Immaculée Montjoie,3 - Enseignement du jour OU du soir,Institut Marie Immaculée-Montjoie - Site Bizet ,"Chaussée de Mons 1017, 1070 Anderlecht",27.65,161.61,C-
+0430.787.094,Centre scolaire Maris Stella - Notre-Dame de Lourdes,4 - Enseignement du jour ET du soir,Institut Maris Stella,"Rue Stevens-Delannoy 111, 1020 Bruxelles",12.28,66.43,B+
+0430.787.094,Centre scolaire Maris Stella - Notre-Dame de Lourdes,3 - Enseignement du jour OU du soir,Institut Maris Stella - Sterckx,"Rue Félix Sterckx 44, 1020 Bruxelles",21.73,108.75,C+
+0430.787.094,Centre scolaire Maris Stella - Notre-Dame de Lourdes,3 - Enseignement du jour OU du soir,Institut Maris Stella - St-Lambert,"Rue Stevens-Delannoy 101, 1020 Bruxelles",19.77,75.35,B
+0206.653.946,Institut national d'assurance maladie-invalidité,1 - Services administratifs,Institut national d'assurance maladie-invalidité,"Avenue de Tervueren 158, 1150 Woluwe-Saint-Pierre",35.96,218.37,C+
+0206.653.946,Institut national d'assurance maladie-invalidité,1 - Services administratifs,Institut national d'assurance maladie-invalidité,"Avenue de Tervueren 249, 1150 Woluwe-Saint-Pierre",49.43,251.37,C
+0206.653.946,Institut national d'assurance maladie-invalidité,1 - Services administratifs,Institut national d'assurance maladie-invalidité,"Avenue de Tervueren 211, 1150 Woluwe-Saint-Pierre",52.66,280.74,C-
+0430.787.094,Centre scolaire Maris Stella - Notre-Dame de Lourdes,3 - Enseignement du jour OU du soir,Institut Notre-Dame de Lourdes,"Rue Edmond Tollenaere 32, 1020 Bruxelles",22.44,129.60,C
+0414.474.367,Institut St-Boniface-Parnasse - A.S.B.L.,3 - Enseignement du jour OU du soir,Institut Saint-Boniface - Viaduc,"Rue du Viaduc 82, 1050 Ixelles",14.73,83.92,B
+0408.142.445,Institut Saint-Dominique,3 - Enseignement du jour OU du soir,Institut Saint-Dominique,"Rue Caporal Claes 38, 1030 Schaerbeek",26.71,133.11,C
+0408.183.027,Comité scolaire Sainte-Alène,3 - Enseignement du jour OU du soir,"Institut Sainte-Alène  ""Ecole maternelle"" ","Avenue Kersbeek 130, 1190 Forest",36.06,201.52,D
+0864.212.788,INSTITUT SAINTE MARIE,3 - Enseignement du jour OU du soir,Institut Sainte-Marie,"Rue Emile Feron 5, 1060 Saint-Gilles",17.36,100.03,B-
+0410.716.014,Institut Saint-Stanislas A.S.B.L.,3 - Enseignement du jour OU du soir,Institut Saint-Stanislas (fondamental et secondaire),"Avenue des Nerviens 115, 1040 Etterbeek",21.70,114.86,C+
+0414.474.367,Institut St-Boniface-Parnasse - A.S.B.L.,3 - Enseignement du jour OU du soir,Institut St-Boniface - Goffart,"Rue Goffart 47, 1050 Ixelles",19.52,110.66,C+
+0414.474.367,Institut St-Boniface-Parnasse - A.S.B.L.,3 - Enseignement du jour OU du soir,Institut St-Boniface Parnasse,"Rue du Conseil 59, 1050 Ixelles",21.57,125.60,C
+0696.977.167,Iriscare,1 - Services administratifs,Iriscare,"Rue Belliard 71, 1040 Bruxelles",43.80,265.78,C
+0949.383.342,Commission européenne,1 - Services administratifs,J-27,"Rue Joseph II 27, 1000 Bruxelles",41.37,254.94,C
+0949.383.342,Commission européenne,1 - Services administratifs,J-30,"Rue Joseph II 30, 1000 Bruxelles",73.61,455.55,E+
+0949.383.342,Commission européenne,1 - Services administratifs,J-54,"Rue Joseph II 54, 1000 Bruxelles",42.91,262.74,C
+0949.383.342,Commission européenne,1 - Services administratifs,J-59,"Rue Joseph II 59, 1000 Bruxelles",48.32,295.71,C-
+0949.383.342,Commission européenne,1 - Services administratifs,J-70,"Rue Joseph II 70, 1000 Bruxelles",45.94,278.85,C-
+0949.383.342,Commission européenne,1 - Services administratifs,J-79,"Rue Joseph II 79, 1000 Bruxelles",49.12,303.40,C-
+0949.383.342,Commission européenne,1 - Services administratifs,J-99,"Rue Joseph II 99, 1000 Bruxelles",39.45,241.66,C
+0207.372.637,AC Watermael-Boitsfort,3 - Enseignement du jour OU du soir,"JARDIN D'ENFANTS COMMUNAL ""COLIBRI"" ","Place du Colibri 1, 1170 Watermael-Boitsfort",43.51,246.49,E+
+0207.372.637,AC Watermael-Boitsfort,3 - Enseignement du jour OU du soir,"JARDINS D'ENFANTS COMMUNAUX ""NAIADES""","Avenue des Naïades 21A, 1170 Watermael-Boitsfort",57.80,326.03,F
+"0851.014.256,0858.344.981","Comité européen des régions,Comité économique et social européen",1 - Services administratifs,JDE,"Rue Belliard 99, 1040 Bruxelles",33.73,209.36,C+
+0441.254.285,JINT Coordinatie Orgaan voor Internationaal Jongeren Werking,1 - Services administratifs,JINT International Jeugdcentrum,"Rue Grétry 26, 1000 Bruxelles",61.82,360.69,D
+0418.716.633,Kaaitheater,11 - Théatres et centres culturels,Kaaistudio's nr 81-83,"Rue Notre-Dame du Sommeil 81, 1000 Bruxelles",33.18,194.27,C
+0811.322.648,FoCI,11 - Théatres et centres culturels,Kaaitheater,"Quai des Péniches 2, 1000 Bruxelles",32.39,190.82,C
+0207.389.859,Commune de Woluwe-Saint-Lambert,2 - Crèches,Kinderdagverblijf Roodebeek,"Chaussée de Roodebeek 322A, 1200 Woluwe-Saint-Lambert",43.58,249.95,C-
+0953.449.919,PARLEMENT EUROPEEN,1 - Services administratifs,KOHL,"Square de Meeûs 8, 1050 Ixelles",72.60,439.86,E+
+0478.379.452,SINT-GOEDELE BRUSSEL,2 - Crèches,KOL De Kollebloem,"Rue Général Fivé 38, 1040 Etterbeek",28.73,171.32,B-
+0478.379.452,SINT-GOEDELE BRUSSEL,2 - Crèches,KOL Harlekijntje,"Rue Jean Tiebackx 13, 1090 Jette",19.69,116.10,B
+0478.379.452,SINT-GOEDELE BRUSSEL,2 - Crèches,KOL Scheutje,"Chaussée de Ninove 339, 1070 Anderlecht",21.32,125.87,B
+0949.383.342,Commission européenne,1 - Services administratifs,L102,"Rue de la Loi 102, 1040 Bruxelles",37.34,224.64,C+
+0949.383.342,Commission européenne,1 - Services administratifs,L130,"Rue de la Loi 130, 1040 Bruxelles",56.28,341.85,D+
+0949.383.342,Commission européenne,1 - Services administratifs,L-15,"Rue de la Loi 15, 1040 Bruxelles",46.24,284.07,C-
+0949.383.342,Commission européenne,1 - Services administratifs,L-41,"Rue de la Loi 41, 1040 Bruxelles",50.65,311.49,D+
+0949.383.342,Commission européenne,1 - Services administratifs,L-56,"Rue de la Loi 56, 1040 Bruxelles",48.14,294.85,C-
+0949.383.342,Commission européenne,1 - Services administratifs,L-84-86,"Rue de la Loi 86, 1040 Bruxelles",62.31,379.15,D
+0212.346.955,CPAS de Bruxelles,"8 - Maisons de repos, maisons de revalidation et de soins et services similaires, établissements pénitentiaires",La Maison Heysel,"Rue du Heysel 3, 1020 Bruxelles",39.95,236.29,C+
+0212.346.955,CPAS de Bruxelles,"8 - Maisons de repos, maisons de revalidation et de soins et services similaires, établissements pénitentiaires",La Maison Vesale,"Rue des Alexiens 45, 1000 Bruxelles",32.51,197.74,B-
+0212.346.955,CPAS de Bruxelles,"8 - Maisons de repos, maisons de revalidation et de soins et services similaires, établissements pénitentiaires",La Résidence Les Eglantines,"Rue Saints-Pierre et Paul 15, 1120 Bruxelles",48.15,278.19,C
+0212.346.955,CPAS de Bruxelles,"8 - Maisons de repos, maisons de revalidation et de soins et services similaires, établissements pénitentiaires",La Résidence Sainte-Gertrude,"Rue des Capucins 23A, 1000 Bruxelles",53.91,315.14,C-
+0308.356.862,SPF Intérieur,1 - Services administratifs,"Laurentide - Conseil du Contentieux des Etrangers, Rue Gaucheret 92-94","Rue du Progrès 233, 1030 Schaerbeek",69.94,418.01,D-
+0207.389.859,Commune de Woluwe-Saint-Lambert,3 - Enseignement du jour OU du soir,Le Bateau - Ecole P Poala - annexe Maternelles,"Chaussée de Roodebeek 268, 1200 Woluwe-Saint-Lambert",25.87,151.53,C-
+0425.406.861,Centre culturel de la Communauté francaise - Le Botanique,11 - Théatres et centres culturels,Le Botanique,"Rue Royale 236, 1210 Saint-Josse-ten-Noode",95.04,565.40,G
+0212.347.747,CPAS Molenbeek - Saint - Jean,1 - Services administratifs,Le centre,"Rue Alphonse Vandenpeereboom 14, 1080 Molenbeek-Saint-Jean",32.68,195.23,C+
+0207.389.859,Commune de Woluwe-Saint-Lambert,3 - Enseignement du jour OU du soir,"L'Ecole Supérieure communale des Arts de l'image ""Le 75""","Avenue Jean-François Debecker 10, 1200 Woluwe-Saint-Lambert",38.70,226.60,D-
+0207.365.610,Administration communale d'Etterbeek,3 - Enseignement du jour OU du soir,les Carrefours/Académie ABSIl,"Rue Fétis 29, 1040 Etterbeek",36.23,204.38,D
+0207.365.709,Administration Communale d'Evere,2 - Crèches,Les Coquelicots,"Avenue de la Hallebarde 1, 1140 Evere",42.84,247.00,C
+0417.507.004,Les Ecoles libres de Saint - Roch enseignement maternel primaire,3 - Enseignement du jour OU du soir,Les Ecoles Libres Saint-Roch,"Avenue de l'Héliport 46, 1000 Bruxelles",35.09,199.08,D
+0418.310.916,Les vraies richesses,"8 - Maisons de repos, maisons de revalidation et de soins et services similaires, établissements pénitentiaires",Les vraies richesses,"Rue de la Procession 24, 1070 Anderlecht",35.70,206.16,C+
+0949.383.342,Commission européenne,1 - Services administratifs,LX40,"Rue du Luxembourg 40, 1000 Bruxelles",40.04,245.33,C
+0949.383.342,Commission européenne,1 - Services administratifs,LX46/MO59,"Rue du Luxembourg 46, 1000 Bruxelles",37.82,229.51,C
+0424.078.852,LYCEE LA RETRAITE ASBL,3 - Enseignement du jour OU du soir,"Lycée ""La Retraite""","Rue des Confédérés 70, 1000 Bruxelles",22.05,125.49,C+
+0949.383.342,Commission européenne,1 - Services administratifs,MADO,"Place Madou 1, 1210 Saint-Josse-ten-Noode",54.55,333.27,D+
+0212.346.955,CPAS de Bruxelles,"13 - Ateliers, centres funéraires, dépôts, ...",MADO Nord - CYCLUP,"Boulevard Emile Bockstael 114, 1020 Bruxelles",30.89,179.23,C
+"0212.347.054,0207.365.709,0267.349.222","CPAS Evere,Administration Communale d'Evere,Police (Zone de police COM2)",1 - Services administratifs,Maison communale,"Square Servaes Hoedemaekers 10, 1140 Evere",34.40,209.17,C+
+0212.347.747,CPAS Molenbeek - Saint - Jean,"8 - Maisons de repos, maisons de revalidation et de soins et services similaires, établissements pénitentiaires",Maison d'accueil le relais,"Rue Vandenboogaerde 64, 1080 Molenbeek-Saint-Jean",56.55,325.35,C-
+0236.916.956,Bruxelles Environnement,1 - Services administratifs,Maison de l'armée,"Avenue du Parc de Woluwe 86, 1160 Auderghem",46.34,265.29,C
+0207.366.501,Commune de Molenbeek-Saint-Jean,11 - Théatres et centres culturels,Maison des Cultures et de la Cohésion sociale ,"Rue Mommaerts 4, 1080 Molenbeek-Saint-Jean",41.92,251.73,D+
+0207.372.637,AC Watermael-Boitsfort,"12 - Musées, bibliothèques, médiathèques et services similaires",Maison des Jeunes,"Place Léopold Wiener 1, 1170 Watermael-Boitsfort",43.00,243.26,D+
+0414.705.583,"la Maison des jeunes "" la clé""",1 - Services administratifs,Maison des jeunes LE CLEF,"Avenue d'Auderghem 189, 1040 Etterbeek",34.19,193.12,C+
+0422.949.692,Vrije Katholieke School Schaarbeek-Noord,3 - Enseignement du jour OU du soir,Mariaschool,"Rue Rubens 108, 1030 Schaerbeek",24.11,137.72,C
+0207.389.859,Commune de Woluwe-Saint-Lambert,11 - Théatres et centres culturels,Médiatine,"Chaussée de Stockel 45, 1200 Woluwe-Saint-Lambert",23.86,138.06,B-
+0949.383.342,Commission européenne,1 - Services administratifs,MERO,"Avenue de Tervueren 41, 1040 Etterbeek",34.80,211.85,C+
+0207.389.859,Commune de Woluwe-Saint-Lambert,4 - Enseignement du jour ET du soir,Métairie Van Meyel,"Avenue Georges Henri 251B, 1200 Woluwe-Saint-Lambert",52.55,304.73,E-
+0949.383.342,Commission européenne,1 - Services administratifs,MO15,"Rue Montoyer 15, 1000 Bruxelles",37.96,238.13,C
+0949.383.342,Commission européenne,1 - Services administratifs,MO34,"Rue Montoyer 34, 1000 Bruxelles",60.44,372.47,D
+0241.347.282,Bruxelles-Propreté,"13 - Ateliers, centres funéraires, dépôts, ...",Molenbeek,"Rue de l'Indépendance 28, 1080 Molenbeek-Saint-Jean",58.56,333.11,E
+0862.932.685,Mont-de-Piété ,1 - Services administratifs,Mont-de-Piété,"Rue Saint-Ghislain 23, 1000 Bruxelles",19.29,111.21,B+
+0953.449.919,PARLEMENT EUROPEEN,1 - Services administratifs,Montoyer 70,"Rue Montoyer 70, 1000 Bruxelles",54.94,333.48,D+
+0953.449.919,PARLEMENT EUROPEEN,1 - Services administratifs,Montoyer 75,"Rue Montoyer 75, 1050 Ixelles",76.41,465.82,E
+0207.365.709,Administration Communale d'Evere,"12 - Musées, bibliothèques, médiathèques et services similaires",Moulin_Musée Bruxellois du Moulin et de l'Alimentation,"Rue du Moulin à Vent 21, 1140 Evere",28.45,161.75,C+
+0416.862.349,Clinique Sanatia - Centre médico-social Sanatia,"8 - Maisons de repos, maisons de revalidation et de soins et services similaires, établissements pénitentiaires",MSP,"Rue du Collège 45, 1050 Ixelles",38.56,226.96,C+
+0416.862.349,Clinique Sanatia - Centre médico-social Sanatia,"8 - Maisons de repos, maisons de revalidation et de soins et services similaires, établissements pénitentiaires",MSP,"Rue de Venise 50, 1050 Ixelles",57.19,319.60,C-
+0949.383.342,Commission européenne,1 - Services administratifs,N105,"Avenue des Nerviens 105, 1040 Etterbeek",61.86,373.09,D
+0308.357.159,SPF Finances,1 - Services administratifs,North Galaxy,"Boulevard du Roi Albert II 33, 1030 Schaerbeek",56.89,351.22,D
+0308.357.753,Service public fédéral Justice,1 - Services administratifs,North Gate I,"Boulevard du Roi Albert II 6, 1000 Bruxelles",74.64,456.67,E
+0314.595.348,"SPF Economie, PME, Classes moyennes et Energie",1 - Services administratifs,North Gate II,"Boulevard du Roi Albert II 8, 1000 Bruxelles",72.73,445.95,E+
+0314.595.348,"SPF Economie, PME, Classes moyennes et Energie",1 - Services administratifs,North Gate III,"Boulevard du Roi Albert II 16, 1000 Bruxelles",62.72,373.37,D
+0206.737.484,L'Office national de l'emploi,1 - Services administratifs,Office national de l'emploi,"Chaussée de Charleroi 60, 1060 Saint-Gilles",23.87,145.53,B
+0206.737.484,L'Office national de l'emploi,1 - Services administratifs,Office National de l'Emploi,"Boulevard de l'Empereur 7, 1000 Bruxelles",57.48,302.33,C-
+0206.731.645,Office national de Sécurité sociale,1 - Services administratifs,Office National de Sécurité Sociale (ONSS),"Place Victor Horta 11, 1060 Saint-Gilles",41.96,258.12,C
+0206.732.932,ONVA,1 - Services administratifs,Office National des Vacances Annuelles,"Rue Montagne aux Herbes Potagères 48, 1000 Bruxelles",35.80,214.19,C+
+0240.682.635,Commission communautaire flamande,3 - Enseignement du jour OU du soir,Onderwijsinstelling Kasterlinden,"Rue de Grand-Bigard 434, 1082 Berchem-Sainte-Agathe",21.81,133.46,C
+0949.383.342,Commission européenne,1 - Services administratifs,ORBN,"Square Frère-Orban 8, 1040 Bruxelles",40.80,252.46,C
+0241.347.282,Bruxelles-Propreté,"13 - Ateliers, centres funéraires, dépôts, ...",Palais,"Rue des Palais 314, 1030 Schaerbeek",49.17,286.17,D-
+0895.408.978,Palais des Beaux-Arts de Bruxelles,11 - Théatres et centres culturels,Palais des Beaux-Arts,"Rue Ravenstein 23, 1000 Bruxelles",99.13,600.94,G
+0949.383.342,Commission européenne,2 - Crèches,PALM,"Avenue Palmerston 6, 1000 Bruxelles",46.63,232.79,C
+0207.365.610,Administration communale d'Etterbeek,3 - Enseignement du jour OU du soir,Paradis des Enfants (Ecole),"Avenue des Volontaires 110, 1040 Etterbeek",37.65,223.09,D-
+0850.012.483,Parlement de la Communauté française,1 - Services administratifs,Parlement de la Fédération Wallonie Bruxelles,"Rue Royale 72, 1000 Bruxelles",76.01,463.81,E
+0207.389.859,Commune de Woluwe-Saint-Lambert,11 - Théatres et centres culturels,Pavillon  Roodebeek,"Chaussée de Roodebeek 314, 1200 Woluwe-Saint-Lambert",25.77,150.94,C+
+0664.820.875,Bureau bruxellois de la planification (Perspective Brussels),1 - Services administratifs,Perspective.brussels,"Rue de Namur 59, 1000 Bruxelles",44.10,267.39,C-
+0419.700.390,ASBL Triton,9 - Piscines,Piscine Triton,"Avenue des Anciens Combattants 260, 1140 Evere",1162.71,6681.05,D
+0316.380.841,Ministère de la Communauté flamande,1 - Services administratifs,Place de Louvain 12,"Place de Louvain 12, 1000 Bruxelles",31.67,182.64,B-
+0949.383.342,Commission européenne,1 - Services administratifs,PLB3,"Rue Philippe Le Bon 1, 1000 Bruxelles",62.79,382.23,D-
+0941.792.893,Hôpital Erasme,7 - Centres de santé et services similaires,Polyclinique du Lothier,"Boulevard Baudouin 27, 1000 Bruxelles",56.99,348.28,D
+0967.302.311,Parlement de la Région de Bruxelles-Capitale,1 - Services administratifs,Raad van de Vlaamse Gemeenschapscommissie,"Rue du Lombard 67, 1000 Bruxelles",40.01,240.09,C
+"0208.312.646,0314.595.348","Régie Des Bâtiments,SPF Economie, PME, Classes moyennes et Energie",1 - Services administratifs,Régie des bâtiments,"Avenue de la Toison d'Or 87, 1060 Saint-Gilles",67.75,414.97,D-
+"0851.014.256,0858.344.981","Comité européen des régions,Comité économique et social européen",1 - Services administratifs,REM,"Rue Belliard 93, 1040 Bruxelles",24.27,147.04,B
+0212.347.747,CPAS Molenbeek - Saint - Jean,"8 - Maisons de repos, maisons de revalidation et de soins et services similaires, établissements pénitentiaires",Résidence Arcadia,"Rue Ferdinand Elbers 20, 1080 Molenbeek-Saint-Jean",54.06,311.10,C-
+0212.347.450,CPAS d'Ixelles,"8 - Maisons de repos, maisons de revalidation et de soins et services similaires, établissements pénitentiaires",Résidence heures Douces,"Rue Victor Greyson 53, 1050 Ixelles",69.52,404.91,D
+0212.348.341,Centre Public d'Action Sociale de Woluwe-Saint-Pierre,"8 - Maisons de repos, maisons de revalidation et de soins et services similaires, établissements pénitentiaires",Résidence Roi Baudouin,"Clos des Chasseurs 2, 1150 Woluwe-Saint-Pierre",50.41,293.11,C-
+0212.347.450,CPAS d'Ixelles,"8 - Maisons de repos, maisons de revalidation et de soins et services similaires, établissements pénitentiaires",Résidence Van Aa,"Chaussée de Boondael 104, 1050 Ixelles",40.34,241.29,C+
+0869.909.460,Police Fédérale,1 - Services administratifs,Rijksadministratief centrum,"Rue Royale 202A, 1000 Bruxelles",61.85,378.78,D
+0458.880.274,Haute Ecole Galilée - HEG,5 - Enseignement supérieur,Rue Royale 336,"Rue Royale 336, 1030 Schaerbeek",31.23,188.73,C-
+0207.366.501,Commune de Molenbeek-Saint-Jean,"13 - Ateliers, centres funéraires, dépôts, ...",Salle des fêtes du Sippelberg ,"Avenue du Sippelberg 1, 1080 Molenbeek-Saint-Jean",33.19,199.68,C-
+0207.365.709,Administration Communale d'Evere,10 - Centres sportifs,Salle de sport Aubier,"Rue des Deux Maisons 34, 1140 Evere",43.45,249.52,C+
+0207.372.637,AC Watermael-Boitsfort,1 - Services administratifs,Sanctions administratives,"Place A. Payfa-Fosséprez 13, 1170 Watermael-Boitsfort",14.96,86.60,B+
+0949.383.342,Commission européenne,1 - Services administratifs,SC11,"Rue de la Science 11, 1000 Bruxelles",49.97,304.10,C-
+0236.916.956,Bruxelles Environnement,"13 - Ateliers, centres funéraires, dépôts, ...","Schrijnwerkerij, verf en sanitair","Avenue du Parc de Woluwe 68, 1160 Auderghem",45.42,232.76,D+
+0207.365.610,Administration communale d'Etterbeek,11 - Théatres et centres culturels,Senghor Centre culturel,"Chaussée de Wavre 366, 1040 Etterbeek",44.16,252.47,D+
+0207.389.859,Commune de Woluwe-Saint-Lambert,"13 - Ateliers, centres funéraires, dépôts, ...",Serres Communales,"Avenue de Toutes les Couleurs 9, 1200 Woluwe-Saint-Lambert",32.05,181.69,C
+0207.389.859,Commune de Woluwe-Saint-Lambert,1 - Services administratifs,Serres Communales (Bureaux et vestiaires),"Avenue de Toutes les Couleurs 9, 1200 Woluwe-Saint-Lambert",27.07,154.15,B-
+0207.389.859,Commune de Woluwe-Saint-Lambert,1 - Services administratifs,Service prévention - Tomberg 188,"Tomberg 188, 1200 Woluwe-Saint-Lambert",39.85,236.70,C
+0207.389.859,Commune de Woluwe-Saint-Lambert,1 - Services administratifs,Services juridique et des propriétés communales,"Tomberg 184, 1200 Woluwe-Saint-Lambert",43.68,254.62,C
+0222.869.673,Sibelga,1 - Services administratifs,Sibelga,"Quai des Usines 16, 1000 Bruxelles",42.39,254.37,C
+0549.927.147,SILVA MEDICAL,"8 - Maisons de repos, maisons de revalidation et de soins et services similaires, établissements pénitentiaires",SILVA medical,"Rue Ferdinand Elbers 24, 1080 Molenbeek-Saint-Jean",72.15,429.67,D-
+0478.379.452,SINT-GOEDELE BRUSSEL,3 - Enseignement du jour OU du soir,Sint-Guido-Instituut,"Place de Sainte-Adresse 12, 1070 Anderlecht",17.07,99.81,B-
+0478.379.452,SINT-GOEDELE BRUSSEL,3 - Enseignement du jour OU du soir,Sint-Guido-Instituut,"Avenue d'Itterbeek 550, 1070 Anderlecht",30.75,150.27,C-
+0478.379.452,SINT-GOEDELE BRUSSEL,3 - Enseignement du jour OU du soir,Sint-Jozefscollege & VBS Sint-Jozefscollege,"Boulevard de la Woluwe 18, 1150 Woluwe-Saint-Pierre",26.46,150.65,C-
+0478.379.452,SINT-GOEDELE BRUSSEL,3 - Enseignement du jour OU du soir,Sint-Pieterscollege & VBS Sint-Pieterscollege,"Rue Léon Theodor 167, 1090 Jette",27.19,154.65,C-
+0236.916.956,Bruxelles Environnement,1 - Services administratifs,Site technique de Laeken,"Rue des Horticulteurs 89, 1020 Bruxelles",84.49,503.76,E-
+0227.581.301,S.L.R.B.,1 - Services administratifs,SLRB,"Rue Jourdan 45, 1060 Saint-Gilles",38.32,233.81,C
+0406.798.006,SMALS,1 - Services administratifs,SMALS,"Avenue Fonsny 20, 1060 Saint-Gilles",46.35,287.17,C-
+0406.798.006,SMALS,"13 - Ateliers, centres funéraires, dépôts, ...",SMALS,"Boulevard Industriel 25, 1070 Anderlecht",528.27,3336.14,G
+0949.383.342,Commission européenne,1 - Services administratifs,SPA2,"Rue de Spa 2, 1000 Bruxelles",37.12,227.16,C+
+0949.383.342,Commission européenne,1 - Services administratifs,SPA3,"Rue de Spa 3, 1000 Bruxelles",36.23,220.85,C+
+0308.357.159,SPF Finances,1 - Services administratifs,"SPF Finances, Documentation Patrimoniale, Fin Shop Brussels","Rue du Biplan 126, 1130 Bruxelles",20.74,108.47,B+
+0207.365.610,Administration communale d'Etterbeek,10 - Centres sportifs,Stade communal Etterbeek THYS,"Rue Baron Dhanis 6, 1040 Etterbeek",82.90,482.53,E+
+0207.389.859,Commune de Woluwe-Saint-Lambert,10 - Centres sportifs,Stade communal - Grand hall de tennis,"Avenue Jean-François Debecker 54, 1200 Woluwe-Saint-Lambert",78.74,444.88,D-
+0207.389.859,Commune de Woluwe-Saint-Lambert,11 - Théatres et centres culturels,Stade communal - La Rotonde,"Avenue Jean-François Debecker 54, 1200 Woluwe-Saint-Lambert",34.77,206.20,C-
+0207.389.859,Commune de Woluwe-Saint-Lambert,10 - Centres sportifs,Stade communal - Petit hall de tennis 10,"Avenue Jean-François Debecker 54, 1200 Woluwe-Saint-Lambert",53.86,301.08,C-
+0207.389.859,Commune de Woluwe-Saint-Lambert,10 - Centres sportifs,Stade communal - Petit hall de tennis 9,"Avenue Jean-François Debecker 54, 1200 Woluwe-Saint-Lambert",51.97,291.24,C
+"0432.950.590,0415.332.917,0461.464.731","Collectif Formation Société asbl,Service de Santé Mentale sectorisé de St-Gilles,Starting-Block asbl",4 - Enseignement du jour ET du soir,Starting Block,"Rue de la Victoire 26, 1060 Saint-Gilles",34.37,199.74,D+
+0414.474.367,Institut St-Boniface-Parnasse - A.S.B.L.,3 - Enseignement du jour OU du soir,St-Boniface-Parnasse / Sans Souci,"Rue Sans Souci 42, 1050 Ixelles",19.66,115.04,C+
+0409.939.222,Institut Saint-Joseph d'Enseignement Technique,4 - Enseignement du jour ET du soir,St-Joseph Enseignement Technique (Atelier Marollien) ,"Rue des Alliés 315, 1190 Forest",11.36,66.73,B+
+0409.939.222,Institut Saint-Joseph d'Enseignement Technique,3 - Enseignement du jour OU du soir,St-Joseph Enseignement Technique (Felix HAP),"Rue Félix Hap 14, 1040 Etterbeek",23.25,111.38,C+
+0409.939.222,Institut Saint-Joseph d'Enseignement Technique,4 - Enseignement du jour ET du soir,St-Joseph Enseignement Technique (St-Pierre),"Chaussée Saint-Pierre 201, 1040 Etterbeek",21.50,122.77,C+
+0409.939.222,Institut Saint-Joseph d'Enseignement Technique,4 - Enseignement du jour ET du soir,St-Joseph Enseignement Technique (Van Meyel),"Place Van Meyel 18, 1040 Etterbeek",17.45,102.17,B-
+0422.143.307,La Fraternité ,3 - Enseignement du jour OU du soir,St Vincent,"Chaussée d'Anvers 28, 1000 Bruxelles",20.95,121.76,C+
+"0851.014.256,0858.344.981","Comité européen des régions,Comité économique et social européen",1 - Services administratifs,T74,"Rue de Trèves 74, 1040 Bruxelles",61.94,390.05,D-
+0407.626.464,Université Libre de Bruxelles,5 - Enseignement supérieur,ULB - Campus de la Plaine,"Boulevard du Triomphe -, 1050 Ixelles",67.17,398.55,F
+0941.792.893,Hôpital Erasme,6 - Hôpitaux,ULB - Campus Erasme - Bâtiment M,"Route de Lennik 808, 1070 Anderlecht",84.60,490.19,D-
+0478.379.452,SINT-GOEDELE BRUSSEL,3 - Enseignement du jour OU du soir,VBS De Groene School,"Rue de la Floraison 41, 1070 Anderlecht",15.03,94.14,B-
+0478.379.452,SINT-GOEDELE BRUSSEL,3 - Enseignement du jour OU du soir,VBS Heilig-Hart,"Avenue du Sacré-Coeur 6, 1090 Jette",15.80,93.74,B-
+0478.379.452,SINT-GOEDELE BRUSSEL,3 - Enseignement du jour OU du soir,VBS Heilig-Hartcollege,"Avenue des Gloires Nationales 126, 1083 Ganshoren",27.61,159.01,C-
+0478.379.452,SINT-GOEDELE BRUSSEL,3 - Enseignement du jour OU du soir,VBS Lutgardis,"Rue Général Fivé 84, 1040 Etterbeek",28.29,172.45,D+
+0478.379.452,SINT-GOEDELE BRUSSEL,3 - Enseignement du jour OU du soir,VBS Sint-Albert / KOL De Hummeltjes,"Rue Haeck 61, 1080 Molenbeek-Saint-Jean",37.84,216.26,D-
+0478.379.452,SINT-GOEDELE BRUSSEL,3 - Enseignement du jour OU du soir,VBS Sint-Guido & VBS Sint-Pieter & Sint-Guido-Instituut,"Rue Docteur Jacobs 49, 1070 Anderlecht",20.51,119.95,C+
+0478.379.452,SINT-GOEDELE BRUSSEL,3 - Enseignement du jour OU du soir,VBS Sint-Jozef,"Rue Vandernoot 52, 1080 Molenbeek-Saint-Jean",18.76,107.78,C+
+0478.379.452,SINT-GOEDELE BRUSSEL,3 - Enseignement du jour OU du soir,VBS Sint-Lutgardis,"Rue Jean De Greef 3, 1083 Ganshoren",22.76,131.08,C
+0414.400.430,Sint-Martinusschool,3 - Enseignement du jour OU du soir,VBS Sint-Martinus,"Rue Paloke 79, 1080 Molenbeek-Saint-Jean",43.76,209.29,D
+0478.379.452,SINT-GOEDELE BRUSSEL,3 - Enseignement du jour OU du soir,VBS Sint-Michiels,"Rue Léopold I 362, 1090 Jette",28.36,164.51,C-
+0202.962.701,VIVAQUA,1 - Services administratifs,"VIVAQUA		","Boulevard de l'Impératrice 17, 1000 Bruxelles",50.51,306.66,D+
+0445.092.616,Vlaams Centrum voor Amateurkunsten,11 - Théatres et centres culturels,Vlaamse Huis voor Amateurkunsten in Brussel vzw - Zinnema,"Rue de Veeweyde 24, 1070 Anderlecht",53.65,314.98,E+
+0811.322.648,FoCI,11 - Théatres et centres culturels,Vlaams-Nederlands Huis de Buren,"Rue Léopold 6, 1000 Bruxelles",21.13,122.14,B-
+0949.383.342,Commission européenne,1 - Services administratifs,VM18,"Rue Van Maerlant 18, 1040 Bruxelles",62.61,382.00,D-
+0949.383.342,Commission européenne,1 - Services administratifs,VM-2,"Rue Van Maerlant 2, 1040 Bruxelles",47.65,286.27,C-
+0692.793.497,VUTG,1 - Services administratifs,VUTG,"Rue de Trèves 9, 1000 Bruxelles",79.89,481.18,E
+0949.383.342,Commission européenne,2 - Crèches,WALI,"Boulevard Clovis 53, 1000 Bruxelles",33.52,200.25,C+
+0308.357.753,Service public fédéral Justice,1 - Services administratifs,Waterside,"Quai de Willebroeck 33, 1000 Bruxelles",41.42,253.43,C
+0207.389.859,Commune de Woluwe-Saint-Lambert,1 - Services administratifs,Wolu Techni-Cité (Bureaux),"Chaussée de Stockel 80, 1200 Woluwe-Saint-Lambert",29.99,179.82,B-
+0207.389.859,Commune de Woluwe-Saint-Lambert,"13 - Ateliers, centres funéraires, dépôts, ...",Wolu Techni-Cité (Dépôt et ateliers),"Chaussée de Stockel 80, 1200 Woluwe-Saint-Lambert",35.51,209.19,D+
+"0308.357.753,0367.303.366,0671.516.647,0865.537.829,0308.357.159,0308.358.050,0208.312.646","Service public fédéral Justice,SPF Sécurité sociale,Service public fédéral Stratégie et appui,SPP Politique scientifique,SPF Finances,SPF Emploi, Travail et Concertation sociale,Régie Des Bâtiments",1 - Services administratifs,WTC 3,"Boulevard Simon Bolivar 30, 1000 Bruxelles",43.19,259.25,C
+"0207.365.610,0267.348.826","Administration communale d'Etterbeek,ZPZ 5343",1 - Services administratifs,Zone de Police 5343 - Division Etterbeek,"Avenue d'Auderghem 113, 1040 Etterbeek",50.30,301.79,C-
